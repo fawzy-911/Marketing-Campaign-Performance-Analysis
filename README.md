@@ -5,7 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Validated-blue)
 ![Status](https://img.shields.io/badge/Status-Validated-success)
-
+![D](https://github.com/fawzy-911/Marketing-Campaign-Performance-Analysis/blob/main/assets/frame_chrome_win10_light.png)
 ---
 
 ## Business Context
